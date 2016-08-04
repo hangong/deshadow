@@ -10,6 +10,8 @@ This code is published under the GNU Lesser General Public License (LGPL) 3.
 Please contact Han Gong (gong@fedoraproject.org) with questions regarding 
 commercial licensing or commercial cooperation.
 
+![alt text](http://www2.cmp.uea.ac.uk/~ybb15eau/josa2016.jpg "Pipeline")
+
 ##REQUIREMENT
 This code was tested on MATLAB 2015b x64 Ubuntu. The other versions of MATLAB 
 may work but the results may not be identical.
