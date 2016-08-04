@@ -23,6 +23,8 @@ This code is a pure MATLAB script implementation (non-MEX). Therefore, it is NOT
 main.m is the driver for batch shadow removal. Please see main.m or execute
 doc main in MATLAB terminal
 
+getinput.m is the driver for obtaining the user input for image I.
+
 para.mat is the pre-trained parameter set for general shadow removal.
 
 ##Shadow Removal Dataset and Online Benchmark for Variable Scene Categories
