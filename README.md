@@ -17,7 +17,7 @@ This code was tested on MATLAB 2015b x64 Ubuntu. The other versions of MATLAB
 may work but the results may not be identical.
 
 ## NOTICE
-This code is a pure MATLAB script implementation (non-MEX). Therefore, it is NOT optimised for speed.
+This code is a pure MATLAB script implementation (non-MEX). Therefore, it is NOT optimised for speed. Only the parameter training code is not shared here. But, normally, the provided default set of parameters should do a good job if the binary *shadow mask* is detected in a good accuracy. If you would like to incorporate your own automatic shadow detection algorithm, simply replace the variable 'smsk' in deshadow.m with your own binary shadow mask image.
 
 ## Usage
 main.m is the driver for batch shadow removal. Please see main.m or execute
