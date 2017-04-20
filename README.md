@@ -7,9 +7,6 @@ University of Bath and University of East Anglia
 
 This code is published under the GNU Lesser General Public License (LGPL) 3.
 
-Please contact Han Gong (gong@fedoraproject.org) with questions regarding 
-commercial licensing or commercial cooperation.
-
 ![alt text](http://www2.cmp.uea.ac.uk/~ybb15eau/josa2016.jpg "Pipeline")
 
 ## REQUIREMENT
